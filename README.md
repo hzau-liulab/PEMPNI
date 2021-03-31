@@ -32,10 +32,10 @@ ENDES: https://sparks-lab.org/publication/ (Paper ID: 098)<br>
 BLAST: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/<br>
 Nonredundant database: ftp://ftp.ncbi.nlm.nih.gov/blast/db/<br>
 
-2.Related settings of Amber software
+2.Related settings of Amber software<br>
 Modify the first three lines of ./scripts/GB1/tleap.in and the second line of ./scripts/GB1/amber.sh according to the installation path of Amber software. Conduct the same settings for ./scripts/GB2/tleap.in and ./scripts/GB2/amber.sh.
 
-3.Related settings of other software
+3.Related settings of other software<br>
 Other software should be installed in the same directory and obtain executable permissions. You can refer to the commands as follows.<br>
 cd ./software<br>
 chmod 777 ./hbplus/hbplus<br>
