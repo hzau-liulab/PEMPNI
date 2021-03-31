@@ -1,0 +1,19 @@
+source /home/jiangyao/amber18/dat/leap/cmd/oldff/leaprc.ff14SB
+source /home/jiangyao/amber18/dat/leap/cmd/leaprc.DNA.bsc1
+source /home/jiangyao/amber18/dat/leap/cmd/leaprc.water.tip3p
+
+com = loadpdb com.pdb
+dna = loadpdb dna.pdb
+pro = loadpdb pro.pdb
+set default PBRadii mbondi
+
+saveamberparm com com.prmtop com.inpcrd
+saveamberparm dna dna.prmtop dna.inpcrd
+saveamberparm pro pro.prmtop pro.inpcrd
+
+solvatebox com TIP3PBOX 10.0
+charge com
+addIons2 com Na+ 0
+addIons2 com Cl- 0
+saveamberparm com com_solvated.prmtop com_solvated.inpcrd
+quit

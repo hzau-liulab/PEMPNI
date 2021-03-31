@@ -1,0 +1,5 @@
+parm com_solvated.prmtop
+trajin min3.mdcrd lastframe
+trajout last.crd
+run
+quit
