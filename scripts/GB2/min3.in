@@ -1,7 +1,0 @@
-minimise
-&cntrl
-  imin=1,maxcyc=5000,ncyc=2000,
-  cut=10.0,ntb=1,
-  ntc=2,ntf=2,
-  ntpr=100, ntwx = 100
-/
