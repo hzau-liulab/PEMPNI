@@ -1,6 +1,6 @@
-PDB ID:1AAY
+PDB ID:1FEU
 Chian ID:A
-Position:D120A
-Predicted affinity change:0.089
-Predicted score:0.122
-Significant decrease:NO
+Position:D87E
+Predicted affinity change:0.753
+Predicted score:0.415
+Significant decrease:YES
