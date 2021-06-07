@@ -1,0 +1,11 @@
+Residue pair GB1 decomposition
+&general
+   endframe = 1
+/
+&gb
+  igb = 1, molsurf = 0, surften = 0.0072, surfoff = 0
+/
+&decomp
+  idecomp = 4,
+  dec_verbose = 1,
+/
