@@ -1,5 +1,5 @@
 parm com_solvated.prmtop
-trajin min3.rst lastframe
+trajin min3.rst
 trajout last.crd
 run
 quit
