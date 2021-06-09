@@ -29,10 +29,4 @@ if __name__ == '__main__':
         if prediction[0]>=0.320:
             fil.write("\n"+"Significant decrease:YES")
         else:
-            fil.write("\n"+"Significant decrease:NO")
-     
-    
-    
-    
-    
-    
+            fil.write("\n"+"Significant decrease:NO") 
