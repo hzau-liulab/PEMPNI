@@ -1,6 +1,6 @@
 # PEMPNI
 PEMPNI (Predictors for Effects of Mutations on PNIs) is a computational method that could effectively predict the effects of missense mutations on protein-DNA and protein-RNA interactions. 
-This algorithm includes an energy module and a nonenergy module. The former is based on the novel geometric partition-based energy features, and the latter is based on the structural and sequence features. The integration of of multifaceted information could generate more robust predictions.
+This algorithm includes an energy module and a nonenergy module. The former is based on the novel geometric partition-based energy features, and the latter is based on the structural and sequence features. The integration of multifaceted information could generate more robust predictions.
 
 # Folder description
 The ./bin directory contains programs to predict the two types of mutation effects.<br>
@@ -8,7 +8,7 @@ The ./datasets directory contains the mutational information of samples in vario
 The ./WT_PDB directory contains the PDB files of wild-type structures used in this project.<br>
 The ./MT_PDB directory contains the PDB files of mutant structures used in this project.<br>
 The ./scripts directory contains auxiliary scripts used in this project.<br>
-The ./features directory contains feature files used in this project.<br>
+The ./models directory contains prediction models used in this project.<br>
 The ./examples directory contains two examples for protein-DNA/RNA complexes.<br>
 The ./software directory contains software lists used in this project.<br>
 
