@@ -38,5 +38,3 @@ if __name__ == '__main__':
             fil.write("\n"+"Significant decrease:YES")
         else:
             fil.write("\n"+"Significant decrease:NO")
-        
-
