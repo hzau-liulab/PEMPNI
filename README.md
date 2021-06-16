@@ -63,12 +63,12 @@ or<br>
 perl ./protein_RNA.pl 1FEU A D87E >>./log.txt<br>
 
 # Results from PEMPNI
-You will obtain all the resulting files in the  ./output/ directory, and the result.txt file contains the prediction results as follows.<br>
+You will obtain all the resulting files in the correspond directory, and the result.txt file contains the prediction results as follows.<br>
 PDB ID:1AAY<br>
 Chian ID:A<br>
 Position:D120A<br>
-Predicted affinity change:0.089<br>
-Predicted score:0.122<br>
+Predicted affinity change:0.097<br>
+Predicted score:0.135<br>
 Significant decrease:NO<br>
 
 # Interpretation of results
