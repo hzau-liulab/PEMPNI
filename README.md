@@ -52,7 +52,7 @@ Note: Because processpdb and pinup use the blastpgp and nonredundant database, y
 You will see protein-DNA.pl and protein-RNA.pl scripts in the ./bin/ directory, and you need to check and modify the paths related to specific software and databases involved in these scripts. For different types of complexes, you need to select the corresponding script.
 
 ## Input file
-The input file is the original structure downloaded from the PDB database, and the scripts will automatically process the raw data. You should ensure that the structural file exists in the ./raw_PDB directory.
+The input file is the original structure downloaded from the PDB database, and the scripts will automatically process the raw data. You should ensure that the structural file exists in the ./WT_PDB directory.
 
 ## Run PEMPNI
 Please go to the ./bin/ directory, and then run the following command including the information of mutation sites. To run the script, you need to set three parameters, such as the PDB name, chain name and mutation information.
