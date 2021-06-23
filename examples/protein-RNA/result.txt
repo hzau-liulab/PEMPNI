@@ -1,0 +1,6 @@
+PDB ID:1FEU
+Chian ID:A
+Position:D87E
+Predicted affinity change:1.083
+Predicted score:0.533
+Significant decrease:YES
