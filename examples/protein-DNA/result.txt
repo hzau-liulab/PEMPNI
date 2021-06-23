@@ -1,6 +1,0 @@
-PDB ID:1AAY
-Chian ID:A
-Position:D120A
-Predicted affinity change:0.097
-Predicted score:0.135
-Significant decrease:NO
